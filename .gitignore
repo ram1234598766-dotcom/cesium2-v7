@@ -1,0 +1,10 @@
+node_modules/
+dist/
+coverage/
+playwright-report/
+test-results/
+.vite/
+.DS_Store
+.firebase/
+firebase-debug.log*
+*.log
